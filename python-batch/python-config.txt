@@ -1,0 +1,15 @@
+[database]
+server = localhost
+username = erm
+password = password
+port = 1521
+sid = xe
+
+[ftp]
+server = 
+username = FTPAdmin
+password = P@ssw0rd
+path = /ERM_GENERATE_FILE
+
+[etc]
+useMachineTime = True

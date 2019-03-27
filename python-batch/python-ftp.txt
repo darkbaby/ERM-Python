@@ -1,0 +1,4 @@
+192.168.10.192
+FTPAdmin
+P@ssw0rd
+/ERM_GENERATE_FILE
